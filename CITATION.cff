@@ -1,1 +1,21 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Cenki-Tok or Cenki
+  given-names: "B\xE9n\xE9dicte"
+  orcid: https://orcid.org/0000-0001-7649-4498
+- family-names: Rey
+  given-names: Patrice
+  orcid: https://orcid.org/0000-0002-1767-8593
+- family-names: Arcay
+  given-names: Diane
+  orcid: https://orcid.org/0000-0001-6773-0807
+title: Strain and retrogression partitioning explain long-term stability of crustal
+  roots in stable continents
+version: ''
+doi: https://doi.org/10.25914/tm6d-t466
+date-released: '2024-10-28'
+url:
+- https://mate.science/models/cenki-tok-2020-crustal-roots-in-stable-continents/
+- https://github.com/ModelAtlasofTheEarth/cenki-tok-2020-crustal-roots-in-stable-continents/
+type: dataset
